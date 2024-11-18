@@ -22,10 +22,10 @@ function App() {
           <div className="text-center">
             <Code2 className="h-16 w-16 text-purple-400 mx-auto mb-4" />
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-purple-200">
-              Computer Science Club
+              AI ML Hub
             </h1>
             <p className="text-xl text-purple-100/80 max-w-2xl mx-auto">
-              Empowering students to explore, learn, and innovate in the world of technology
+              Empowering students to explore, learn, and innovate in the field of AI AND ML
             </p>
           </div>
         </div>
@@ -37,8 +37,8 @@ function App() {
           <h2 className="text-3xl font-bold text-center text-white mb-12 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-purple-200">About Us</h2>
           <div className="bg-gray-900/50 backdrop-blur-sm rounded-lg shadow-xl p-8 border border-purple-500/20">
             <p className="text-purple-100/80 text-lg leading-relaxed mb-6">
-              The Computer Science Club is a community of passionate students dedicated to exploring the frontiers of technology. 
-              We provide a platform for learning, collaboration, and professional development in software engineering, artificial intelligence, 
+              The AI ML Club is a community of passionate students dedicated to exploring the frontiers of technology. 
+              We provide a platform for learning, collaboration, and professional development in Machine Learning, artificial intelligence, 
               and other cutting-edge technologies.
             </p>
             <div className="flex items-center justify-center space-x-6">
@@ -101,9 +101,9 @@ function App() {
                     <Calendar className="h-6 w-6 text-purple-400 flex-shrink-0" />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-lg mb-2 text-purple-100">When We Meet</h3>
-                    <p className="text-purple-100/80">Every Wednesday</p>
-                    <p className="text-purple-100/80">5:00 PM - 6:30 PM</p>
+                    <h3 className="font-semibold text-lg mb-2 text-purple-100">Next Event</h3>
+                    <p className="text-purple-100/80">Wednesday-Carnival</p>
+                    <p className="text-purple-100/80">5:00 PM - 7:00 PM</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -111,9 +111,9 @@ function App() {
                     <MapPin className="h-6 w-6 text-purple-400 flex-shrink-0" />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-lg mb-2 text-purple-100">Where We Meet</h3>
-                    <p className="text-purple-100/80">Computer Science Building</p>
-                    <p className="text-purple-100/80">Room 105</p>
+                    <h3 className="font-semibold text-lg mb-2 text-purple-100">Where</h3>
+                    <p className="text-purple-100/80">Computer Lab</p>
+                    <p className="text-purple-100/80">CL 02</p>
                   </div>
                 </div>
               </div>
@@ -160,7 +160,7 @@ function App() {
       <footer className="bg-gray-900/50 backdrop-blur-sm py-8 border-t border-purple-500/20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-center text-purple-200/50">
-            © {new Date().getFullYear()} Computer Science Club. All rights reserved.
+            © {new Date().getFullYear()} AI ML Hub. All rights reserved.
           </p>
         </div>
       </footer>
