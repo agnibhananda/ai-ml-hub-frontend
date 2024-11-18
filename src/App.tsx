@@ -25,7 +25,7 @@ function App() {
               AI ML Hub
             </h1>
             <p className="text-xl text-purple-100/80 max-w-2xl mx-auto">
-              Empowering students to explore, learn, and innovate in the field of AI AND ML
+              Empowering students to explore, learn, and innovate in the field of Artificial Intelligence and Machine Learning
             </p>
           </div>
         </div>
@@ -134,7 +134,7 @@ function App() {
                   Have questions or want to join? Reach out to us through any of these channels!
                 </p>
                 <div className="flex space-x-8">
-                  <a href="mailto:csclub@university.edu" className="group">
+                  <a href="https://chat.whatsapp.com/Kd7CzrdQS2w5Ax9lrBgoEt" className="group">
                     <div className="p-4 bg-purple-900/30 rounded-lg transition-all duration-300 group-hover:bg-purple-900/50">
                       <Mail className="h-8 w-8 text-purple-400 group-hover:text-purple-300" />
                     </div>
@@ -144,7 +144,7 @@ function App() {
                       <Github className="h-8 w-8 text-purple-400 group-hover:text-purple-300" />
                     </div>
                   </a>
-                  <a href="https://linkedin.com/company/cs-club" className="group">
+                  <a href="https://www.linkedin.com/company/ai-ml-hub-of-jiit?originalSubdomain=in" className="group">
                     <div className="p-4 bg-purple-900/30 rounded-lg transition-all duration-300 group-hover:bg-purple-900/50">
                       <Linkedin className="h-8 w-8 text-purple-400 group-hover:text-purple-300" />
                     </div>
